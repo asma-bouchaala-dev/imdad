@@ -98,6 +98,19 @@ The prototype includes:
   - Referral attribution.
 
 ---
+## Screenshots
+
+### Overview
+![IMDAD Overview](docs/screenshots/imdad-overview.png)
+
+### Marketplace
+![IMDAD Marketplace](docs/screenshots/imdad-marketplace.png)
+
+### Available Assets
+![IMDAD Available Assets](docs/screenshots/imdad-available-assets.png)
+
+### Community Galaxy
+![IMDAD Community Galaxy](docs/screenshots/imdad-community-galaxy.png)
 
 ## Tech Stack
 
