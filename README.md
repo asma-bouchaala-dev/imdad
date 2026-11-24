@@ -210,7 +210,17 @@ IMDAD started with a simple question:
 *What if women could access business opportunities without needing the resources that usually prevent them from starting?*
 
 I am building IMDAD to explore that possibility through technology, entrepreneurship, and accessible digital tools.
+---
 
+## Copyright
+
+© 2026 Asma Bouchaala. All rights reserved.
+
+This repository is publicly available for viewing and portfolio evaluation.
+
+No permission is granted to reuse, copy, modify, redistribute, or commercially exploit this project's code, design, branding, or original materials without prior written permission from the author, except where permitted by applicable law and GitHub's Terms of Service.
+
+For permission to use or adapt any part of this project, please contact the author.
 ---
 
 *Built with purpose by Asma Bouchaala.*
