@@ -200,16 +200,21 @@ The following work remains necessary:
 
 ## About the Founder
 
-**Asma Bouchaala**  
+**Asma Bouchaala**
 Founder & Developer of IMDAD
 
 I enjoy turning real-world problems into practical digital solutions.
 
 IMDAD started with a simple question:
 
-*What if women could access business opportunities without needing the resources that usually prevent them from starting?*
+> What if women could access business opportunities without needing the
+> resources that usually prevent them from starting?
 
-I am building IMDAD to explore that possibility through technology, entrepreneurship, and accessible digital tools.
+I am building IMDAD to explore that possibility through technology,
+entrepreneurship, and accessible digital tools.
+
+*Built with purpose by Asma Bouchaala.*
+
 ---
 
 ## Copyright
@@ -218,9 +223,10 @@ I am building IMDAD to explore that possibility through technology, entrepreneur
 
 This repository is publicly available for viewing and portfolio evaluation.
 
-No permission is granted to reuse, copy, modify, redistribute, or commercially exploit this project's code, design, branding, or original materials without prior written permission from the author, except where permitted by applicable law and GitHub's Terms of Service.
+No permission is granted to reuse, copy, modify, redistribute, or commercially
+exploit this project's code, design, branding, or original materials without
+prior written permission from the author, except where permitted by applicable
+law and GitHub's Terms of Service.
 
-For permission to use or adapt any part of this project, please contact the author.
----
-
-*Built with purpose by Asma Bouchaala.*
+For permission to use or adapt any part of this project, please contact the
+author via [LinkedIn](https://www.linkedin.com/in/asma-bouchaala).
